@@ -188,6 +188,6 @@ POST http://127.0.0.1:8000/api/explain
 
 ## 👨‍💻 Authors
 
-Built with ❤️ by SuperML.ai
+Built with ❤️ by [SuperML.dev](https://superml.dev)
 
 ---
